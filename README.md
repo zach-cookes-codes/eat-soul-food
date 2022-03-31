@@ -3,4 +3,4 @@
 
 This is the beginning of my github experience.
 
-Let's get this #100Devs $$$$$$
+Let's get this #100Devs => 1000Devs
